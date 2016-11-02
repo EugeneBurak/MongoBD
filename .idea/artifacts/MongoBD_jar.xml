@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MongoBD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MongoBD_jar</output-path>
+    <root id="archive" name="MongoBD.jar">
+      <element id="module-output" name="MongoBD" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/mongo-java-driver-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
